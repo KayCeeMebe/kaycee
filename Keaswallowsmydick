@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Happy Birthday Kearabetswe</title>
+	<style>
+		body {
+			background-image: url('https://i.imgur.com/BiFpCPj.jpg');
+			background-size: cover;
+			font-family: cursive;
+			font-size: 18px;
+			color: #4c4c4c;
+			text-align: center;
+		}
+		h1 {
+			font-size: 40px;
+			color: #ff3d67;
+			margin-top: 50px;
+			margin-bottom: 20px;
+			text-shadow: 2px 2px #fff;
+		}
+		.heart {
+			width: 25px;
+			height: 25px;
+			background-image: url('https://i.imgur.com/SyFfjMx.png');
+			background-size: cover;
+			display: inline-block;
+			animation: beat 0.8s infinite alternate;
+		}
+		@keyframes beat {
+			from { transform: scale(1); }
+			to { transform: scale(1.2); }
+		}
+		.cake {
+			width: 50px;
+			height: 50px;
+			background-image: url('https://i.imgur.com/1yW5bj5.png');
+			background-size: cover;
+			display: inline-block;
+			animation: spin 2s infinite linear;
+		}
+		@keyframes spin {
+			from { transform: rotate(0deg); }
+			to { transform: rotate(360deg); }
+		}
+	</style>
+</head>
+<body>
+	<h1>Happy Birthday Kearabetswe ❤️</h1>
+	<p>Hope you had a great day <span class="cake"></span> Wishing you a year filled with love, happiness, and all your heart's desires <span class="heart"></span><span class="heart"></span><span class="heart"></span>.</p>
+	<p>Wish Nke Ke Le Ko Wena Ko Kgama Ka Ntoto 🥺 Or Ke Go Ja Marao Ao ❤️ Mara wa itse story saka lwena 😂 I still haven't forgiven you for se ompoditseng sona 🤞🏽Mara ke sao rata and for whatever reason ke SA batla go ja marao ao 😂 le motete! Le kgokgotso eo ke sa tlo e kgakgamolla 😈 anyway, let me not make it about me 🥹 Happy Birthday my love, wish you many more yes and more love and more dick, but only mine though. 😉</p>
+	<p>Love, Daddy</p>
+</body>
+</html>
